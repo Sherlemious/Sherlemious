@@ -1,1 +1,1 @@
-[![Sherlemious's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherlemious)]
+![Sherlemious's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherlemious)
