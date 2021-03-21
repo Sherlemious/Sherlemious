@@ -3,8 +3,10 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Sherlemious&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlemious&layout=compact)
+[comment]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlemious&layout=compact))
 
+npm i @codersrank/skills-chart --save
 
-
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+  
 <codersrank-skills-chart username="Sherlemious"></codersrank-skills-chart>
