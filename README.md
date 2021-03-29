@@ -2,3 +2,8 @@
 <a href="<https://www.linkedin.com/in/sherlemious/>">![Linkedin.com/in/sherlemious](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Sherlemious&count_private=true&show_icons=true&hide=contribs)
+{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_NAME }} Python
+{{ LANGUAGE_PERCENT }} 100%
+{{ LANGUAGE_COLOR }} #C70039
+{{ LANGUAGE_TEMPLATE_END }}
