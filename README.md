@@ -31,5 +31,5 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing A-levels i
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Sherlemious/badges)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sherlemious&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sherlemious&theme=blue-green)]
 
