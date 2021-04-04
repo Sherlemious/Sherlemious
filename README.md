@@ -13,8 +13,6 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing A-levels i
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
-![Sublime Text](https://img.shields.io/badge/sublime-text-3-★★★★★lightbrown?labelColor=F7DF1E&logo=Sublime-text&style=for-the-badge&logoColor=black)
-
 
 
 
