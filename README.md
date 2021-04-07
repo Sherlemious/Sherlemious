@@ -21,7 +21,7 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing A-levels i
 <a href="mailto:abd.moh.yousef@gmail.com">![abd.moh.yousef@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Sherlemious)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](reddit.com/u/sherlemious)
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="sherlemious"><a class="LI-simple-link" href='https://eg.linkedin.com/in/sherlemious?trk=profile-badge'>Abdulrahman Mohammed</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sherlemious"><a class="LI-simple-link" href='https://eg.linkedin.com/in/sherlemious?trk=profile-badge'>Abdulrahman Mohammed</a></div>
 
 ## Stats
 
