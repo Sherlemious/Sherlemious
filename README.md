@@ -26,9 +26,11 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing A-levels i
 ## Stats
 
 ![Sherlemious's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sherlemious&theme=blue-green)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Sherlemious/badges)
+
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Sherlemious&count_private=false&show_icons=true&hide=contribs&theme=merko)
 ![Sherlemious's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlemious&theme=blue-green)
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Sherlemious/badges)
 
 
