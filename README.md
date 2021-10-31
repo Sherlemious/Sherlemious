@@ -1,6 +1,6 @@
 ## Info
 
-Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing A-levels in Computer Science, Mathemetics, and Physics.
+Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
 
 ## Skills
 
