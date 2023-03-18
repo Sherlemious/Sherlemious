@@ -4,7 +4,8 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course i
 
 ## Skills
 
-![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-★★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/java-★★★★-lightgrey?labelColor=3776AB&logo=Java&style=for-the-badge&logoColor=white)
 
 ## OS & Tools
 
