@@ -9,19 +9,30 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course i
 
 ## OS & Tools
 
-![Windows](https://img.shields.io/badge/Windows-★★★★★-lightblue?labelColor=3776AB&logo=Windows&style=for-the-badge&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=grey)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=grey)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Operating_System-blue?logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-orange?logo=ubuntu&logoColor=white)
+
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-red?logo=intellij-idea&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?logo=digitalocean&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visual-studio-code&logoColor=white)
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Productivity-blue?logo=google-sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Spreadsheet-green?logo=microsoft-excel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)
+
 ![VMware](https://img.shields.io/badge/VMware-Virtualization-blue?logo=vmware&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?logo=digitalocean&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=google-cloud&logoColor=white)
 
-
+![Openpyxl](https://img.shields.io/badge/Openpyxl-Library-blue?logo=python&logoColor=white)
+![Psycopg2](https://img.shields.io/badge/Psycopg2-Library-blue?logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Library-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Library-blue?logo=python&logoColor=white)
 
 
 ## Links
