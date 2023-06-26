@@ -27,8 +27,6 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course i
 ## Stats
 
 ![Sherlemious's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sherlemious&theme=blue-green)
-![Sherlemious's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlemious&theme=blue-green)
-
 
 
 
