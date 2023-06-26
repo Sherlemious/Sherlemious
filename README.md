@@ -2,13 +2,13 @@
 
 Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
 
-## Skills
+## Programming Languages
 
 ![python](https://img.shields.io/badge/python-★★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=3776AB&logo=java&style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-★★-lightgrey?labelColor=A8B9CC&logo=c&style=for-the-badge&logoColor=white)
 
 ## OS & Tools
-
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=grey)
