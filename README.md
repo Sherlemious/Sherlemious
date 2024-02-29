@@ -2,7 +2,7 @@
 
 Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
 
-![](https://komarev.com/ghpvc/?username=sherlemious&base=1000&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sherlemious&base=500&abbreviated=true)
 
 ## Programming Languages
 
