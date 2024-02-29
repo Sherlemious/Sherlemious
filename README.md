@@ -2,6 +2,8 @@
 
 Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
 
+![](https://komarev.com/ghpvc/?username=sherlemious&base=1000abbreviated=true)
+
 ## Programming Languages
 
 ![python](https://img.shields.io/badge/python-★★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
