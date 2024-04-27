@@ -1,41 +1,55 @@
-## Info
+# Info
 
 Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
 
 ![](https://komarev.com/ghpvc/?username=sherlemious&base=500&abbreviated=true)
 
 ## Programming Languages
+![python](https://img.shields.io/badge/python-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/java-lightgrey?labelColor=3776AB&logo=Java&style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-lightgrey?labelColor=A8B9CC&logo=csharp&style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Haskell-lightgrey?labelColor=black&logo=Haskell&style=for-the-badge&logoColor=white)
 
-![python](https://img.shields.io/badge/python-★★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=3776AB&logo=java&style=for-the-badge&logoColor=white)
-![C](https://img.shields.io/badge/C-★★-lightgrey?labelColor=A8B9CC&logo=c&style=for-the-badge&logoColor=white)
+## Front-end
 
-## OS & Tools
+![React](https://img.shields.io/badge/React-lightgrey?labelColor=A8B9CC&logo=react&style=for-the-badge&logoColor=white)
 
+## Backend
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=grey)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=grey)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4479A1e?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=MySQL&logoColor=white)
+
+### OS & Tools
 
 ![Windows](https://img.shields.io/badge/Windows-Operating_System-blue?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-orange?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-orange?logo=Bash&logoColor=white)
 
+### VCS
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=grey)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=grey)
+![Github](https://img.shields.io/badge/-Gitkraken-179287?logo=Gitkraken&style=for-the-badge&logoColor=grey)
+
+### IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-red?logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-red?logo=intellij&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visual-studio-code&logoColor=white)
 
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Productivity-blue?logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Spreadsheet-green?logo=microsoft-excel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)
 
-![VMware](https://img.shields.io/badge/VMware-Virtualization-blue?logo=vmware&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?logo=digitalocean&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=google-cloud&logoColor=white)
-
+### Python Libraries
 ![Openpyxl](https://img.shields.io/badge/Openpyxl-Library-blue?logo=python&logoColor=white)
 ![Psycopg2](https://img.shields.io/badge/Psycopg2-Library-blue?logo=python&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Library-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Library-blue?logo=python&logoColor=white)
 
+
+### Misc
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Productivity-blue?logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-green?logo=microsoft-excel&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-blue?logo=vmware&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue?logo=digitalocean&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=google-cloud&logoColor=white)
 
 ## Links
 
