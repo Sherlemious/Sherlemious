@@ -1,35 +1,42 @@
 # Info
 
-Hello there, I'm Abdulrahman, an aspiring AI engineer currently doing a course in Computer Science and Engineering.
+Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a course in computer science and engineering.
 
 ![](https://komarev.com/ghpvc/?username=sherlemious&base=500&abbreviated=true)
 
 ## Programming Languages
 ![python](https://img.shields.io/badge/python-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-lightgrey?labelColor=3776AB&logo=Java&style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-lightgrey?labelColor=A8B9CC&logo=csharp&style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Haskell-lightgrey?labelColor=black&logo=Haskell&style=for-the-badge&logoColor=white)
 
 ## Front-end
 
 ![React](https://img.shields.io/badge/React-lightgrey?labelColor=A8B9CC&logo=react&style=for-the-badge&logoColor=white)
 
 ## Backend
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4479A1e?logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Express](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### OS & Tools
 
 ![Windows](https://img.shields.io/badge/Windows-Operating_System-blue?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-orange?logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-orange?logo=Bash&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ### VCS
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=grey)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=grey)
-![Github](https://img.shields.io/badge/-Gitkraken-179287?logo=Gitkraken&style=for-the-badge&logoColor=grey)
+![Gitkraken](https://img.shields.io/badge/-Gitkraken-179287?logo=Gitkraken&style=for-the-badge&logoColor=grey)
 
 ### IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?logo=pycharm&logoColor=white)
