@@ -20,7 +20,6 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a course 
 ![PostgreSQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Express](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -30,6 +29,8 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a course 
 
 ![Windows](https://img.shields.io/badge/Windows-Operating_System-blue?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-orange?logo=ubuntu&logoColor=white)
+
+### Project Management Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ### VCS
