@@ -22,7 +22,6 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a course 
 
 ![Express](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -43,13 +42,11 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a course 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-red?logo=intellij&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visual-studio-code&logoColor=white)
 
-
 ### Python Libraries
 ![Openpyxl](https://img.shields.io/badge/Openpyxl-Library-blue?logo=python&logoColor=white)
 ![Psycopg2](https://img.shields.io/badge/Psycopg2-Library-blue?logo=python&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Library-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Library-blue?logo=python&logoColor=white)
-
 
 ### Misc
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Productivity-blue?logo=google-sheets&logoColor=white)
