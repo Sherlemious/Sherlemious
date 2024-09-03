@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a computer science and engineering course.
+Hello, I'm Abdulrahman, an aspiring AI engineer taking a computer science and engineering course.
 
 
 ## 🌐 Socials:
@@ -13,4 +13,4 @@ Hello there, I'm Abdulrahman, an aspiring AI engineer currently taking a compute
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlemious&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sherlemious&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sherlemious&base=900&abbreviated=true)
