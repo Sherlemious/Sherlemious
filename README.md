@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Abdulrahman, an aspiring AI engineer taking a computer science and engineering course.
+Hello, I'm Abdulrahman, a backend engineer currently doing a computer science and engineering course.
 
 
 ## 🌐 Socials:
