@@ -2,7 +2,7 @@
 
 CS Student by day, Software Developer by night. Passionate about software architecture and building robust, scalable systems. I am currently exploring the intersection of clean architecture principles and data engineering while pursuing my Bachelor's in Computer Science & Engineering 🏗️
 
-## [My University Projects](https://github.com/Sherlemious-GUC-Projects)
+## [My University Projects](https://github.com/orgs/Sherlemious-GUC-Projects/repositories)
 
 [![Website!](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://sherlemious.com)
 [![Open for Opportunities](https://img.shields.io/badge/Open%20for%20Internships-blue?style=flat)](https://linkedin.com/in/sherlemious)
