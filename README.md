@@ -9,7 +9,6 @@ CS Student by day, Software Developer by night. Passionate about software archit
 
 ## 🎯 Current Status
 
-- 💼 Data Engineer at Astronomic
 - 👨🏻‍💻 Building Fullstack websites for clients
 - 📚 Pursuing Bachelor's in Computer Science & Engineering
 - 🔍 Actively seeking internship opportunities
