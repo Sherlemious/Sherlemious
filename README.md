@@ -55,4 +55,4 @@ CS Student by day, Software Developer by night. Passionate about software archit
 
 ---
 
-![](https://komarev.com/ghpvc/?username=sherlemious&base=900&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sherlemious&base=0&abbreviated=true)
