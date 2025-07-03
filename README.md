@@ -11,7 +11,9 @@
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://www.sherlemious.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherlemious) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12285920/abdulrahman-mohammed) [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithsherlemious1377) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sherlemious) [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/sherlemious)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherlemious) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12285920/abdulrahman-mohammed)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sherlemious)
+
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithsherlemious1377) [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/sherlemious)
 
 ## 🎯 Current Status
 
