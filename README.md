@@ -10,10 +10,13 @@
 *Explore my collection of academic projects and coursework*
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://www.sherlemious.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherlemious) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12285920/abdulrahman-mohammed)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sherlemious)
+<a href="https://www.sherlemious.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://linkedin.com/in/sherlemious" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/12285920/abdulrahman-mohammed" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://github.com/sherlemious" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>
 
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithsherlemious1377) [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/sherlemious)
+<a href="https://www.youtube.com/@techwithsherlemious1377" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+<a href="https://letterboxd.com/sherlemious" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
 
 ## 🎯 Current Status
 
