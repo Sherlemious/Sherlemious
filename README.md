@@ -1,11 +1,17 @@
 # 👋 Hello World! I'm Abdulrahman
 
-CS Student by day, Software Developer by night. Passionate about software architecture and building robust, scalable systems. I am currently exploring the intersection of clean architecture principles and data engineering while pursuing my Bachelor's in Computer Science & Engineering 🏗️
+*Passionate about software architecture and building robust, scalable systems*
 
-## [My University Projects](https://github.com/orgs/Sherlemious-GUC-Projects/repositories)
+🏗️ Currently exploring the intersection of **clean architecture principles** and **data engineering**  
+📚 Pursuing Bachelor's in Computer Science & Engineering
 
-[![Website!](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://sherlemious.com)
-[![Open for Opportunities](https://img.shields.io/badge/Open%20for%20Internships-blue?style=flat)](https://linkedin.com/in/sherlemious)
+## 🎓 Academic Journey
+### [My University Projects](https://github.com/orgs/Sherlemious-GUC-Projects/repositories)
+*Explore my collection of academic projects and coursework*
+
+## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://www.sherlemious.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherlemious) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12285920/abdulrahman-mohammed) [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithsherlemious1377) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sherlemious) [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/sherlemious)
 
 ## 🎯 Current Status
 
@@ -13,10 +19,6 @@ CS Student by day, Software Developer by night. Passionate about software archit
 - 📚 Pursuing Bachelor's in Computer Science & Engineering
 - 🔍 Actively seeking internship opportunities
 - 🌱 Building expertise in Backend Development, Database engineering and Software architecture
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherlemious) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12285920/abdulrahman-mohammed) [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithsherlemious1377) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sherlemious) [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/sherlemious)
 
 ## 💻 Tech Stack:
 
