@@ -55,6 +55,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=sherlemious&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sherlemious&theme=dark&hide_border=false)<br/>
 
----
-
-![](https://komarev.com/ghpvc/?username=sherlemious&base=0&abbreviated=true)
