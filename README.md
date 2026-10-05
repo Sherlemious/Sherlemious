@@ -3,7 +3,6 @@
 *Passionate about software architecture and building robust, scalable systems*
 
 🏗️ Currently exploring the intersection of **clean architecture principles** and **data engineering**  
-📚 Pursuing a Bachelor's in Computer Science & Engineering
 
 ## 🎓 Academic Journey
 ### [My University Projects](https://github.com/orgs/Sherlemious-GUC-Projects/repositories)
