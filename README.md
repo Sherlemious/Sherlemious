@@ -1,19 +1,17 @@
 # Hi, I'm Abdelrahman 👋
 
-**Product Engineer** in Cairo, Egypt. I build products end to end: the API, the data model, the background workflows, and the interface people actually use.
+**Product Engineer** in Cairo, Egypt. I build products end to end, from the data model to the interface, and then measure whether people actually use them.
 
 🌐 [sherlemious.com](https://www.sherlemious.com)
 
 ## 🚀 Now
 
-Building **[The Learning Mate](https://thelearningmate.com)** since Aug 2025, an AI exam-grading platform for teachers. I've authored over 3,000 commits across most of the product:
+Building **[The Learning Mate](https://thelearningmate.com)**, an AI exam-grading platform for teachers. I work on the whole product, not just the code:
 
-- **AI grading pipeline:** answer extraction and grading across model providers, prompt versioning, cancellation and retry, and clear failure states
-- **Google Classroom integration:** course and roster sync, push notifications, automatic grading of submissions, returning graded PDFs, and detecting resubmissions
-- **Public API (v1) and MCP server:** API-key auth, rate limiting, async exam creation, analytics endpoints, OpenAPI docs and `llms.txt`
-- **Billing:** pay-as-you-go credits with Stripe, and quota charging that bills each grading run exactly once
-- **Observability:** OpenTelemetry and Axiom tracing, LLM telemetry, and product analytics
-- **Teacher, student, parent and admin interfaces:** human review and grade appeals, WhatsApp reports, onboarding, and learning materials
+- **Product analytics:** PostHog event tracking, funnels from ad click to paying teacher, and signup attribution with UTMs
+- **Activation:** a guided onboarding flow and a free trial where teachers get a graded paper before they sign up
+- **Growth and positioning:** feature and landing pages, SEO, and making the product discoverable by AI assistants
+- **Integrations people ask for:** Google Classroom, a public API, and an MCP connector so teachers can use it from their AI assistant
 
 ## 🛠️ Things I've built
 
@@ -49,6 +47,7 @@ More: [IP Fee Calculator](https://github.com/Sherlemious/IP-Fee-Calculator) · [
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=F9BD2B)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ## 🌐 Find me
